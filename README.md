@@ -16,6 +16,8 @@ Rubber Feet: https://www.rackstuds.com/
 1u 10″ Rackmount custom made for the Ubiquiti Flex-XG Switch: https://shorturl.at/4yti7
 All together the total was around $200.
 
+![image](https://github.com/msvirtualguy/minilab1.0/assets/28677603/0ac38b6d-7c10-445a-b4bf-3bf4d8be4a30)
+
 
 A couple of things I didn’t like about this. First, the rack square hole spacing was off. I’m not sure if this was a defect from the factory or how these came. Because of this, and my usage of Rackstuds vs the typical rack nuts and screws, I had no choice but use the spacing I did which bothered me at first, but I then realized that this was ideal anyway for cooling and heat dissipation. Secondly, I definitely need a couple of more 1u blank panels on the side to firm this up on top which I already ordered, so I would recommend a total of 7 vs the 5 that are shown here. This will give it much more rigidity.
 
