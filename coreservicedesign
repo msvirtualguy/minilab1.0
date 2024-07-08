@@ -1,0 +1,36 @@
+This week we delve into what really runs ON my home lab vs the hardware pieces. This is an area, I believe, is unrepresented in the Home Lab community. There is this maniacal focus on hardware (I’m guilty of this too) because it’s physical and we like to show off our platforms. The problem with that is hardware is just hardware. Without leveraging it using productive software, then what’s the point? It’s like having a Porsche parked in the garage and not using it. The reality is that software is what’s driving most of the innovation, and capabilities. While hardware is important and there is innovation happening there, it’s software and development platforms that are driving impactful change and advantage.
+
+Before we start down this path, I’m going to take a step back and focus on my design. This is extremely important. The design is important because you need to list out the things that you want to do with your lab. It is quite possible that you don’t know yet and that’s okay, so you’ll want to have a PLATFORM that can allow you to adjust to your needs. TBH, very few really know exactly what they will run on their home lab, for the most part. We know what we want to do, but things change, software changes, and new software is coming out regularly that does things better than what you were doing before. Having said that the first thing that we’ll do is outline what I want to do with my minilab.
+
+Create a agile foundational stack to deliver services for production and testing
+Locations
+On Prem (Two Sites eventually), Cloud (AWS)
+Compute
+VMs (AHV)
+Containers with and without K8s (HexOS, NKP, Rancher, OCP)
+Storage
+File, Block, Objects (NUS), Kubernetes Storage (CSI, NDK)
+Networking
+OOB MGMT, Platform MGMT, Application Traffic, External Traffic, Firewall, IDS/IPS, Segmented Traffic (IoT, Security, Guest), Load Balancing, Ingress, VPN (Cloudflare)
+Observability
+Reporting, Alerting, Visibility, Telemetry, Syslog, Tracing
+Platform Services
+K8s
+NKP
+Rancher
+OCP
+DBaaS (NDB)
+GitOPs (ArgoCD, Github, GitLab)
+CI/CD (Jenkins??)
+IDP (Backstage?)
+Security and Backup
+VM (HYCU & NAS)
+Containers (NDK)
+Secrets MGMT (certmanager)
+Certificates (letsencrypt)
+Physical Security
+Alarm, NVR, Cameras
+Core Services
+Domain
+DNS
+NAS
